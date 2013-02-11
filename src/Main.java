@@ -4,7 +4,7 @@ public class Main {
 		Algorithm algorithm = new Algorithm();
 		algorithm.core();
 		System.out.println(algorithm.StableTest());
-		System.out.println(algorithm.averageRank());
+		//System.out.println(algorithm.averageRank());
 
 	}
 }
