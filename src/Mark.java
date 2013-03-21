@@ -42,7 +42,6 @@ public class Mark {
 			System.out.println(statisticsCount[i]);
 		}
 	}
-
 	public void print() {
 		for (int i = 0; i < studentCount; i++) {
 			System.out.println(markList[i]);
